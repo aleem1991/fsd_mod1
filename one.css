@@ -1,0 +1,27 @@
+h1{
+    background-color: blanchedalmond;
+}
+a[href]{
+   background-color: black;
+   color:white;
+}
+form{
+    background-color: blanchedalmond;
+}
+p{
+    background-color: azure;
+}
+th{
+    color:pink;
+    background-color: black;
+}
+td{
+    color:black;
+    background-color: pink;
+}
+li{
+    background-color: rgb(112, 118, 104);
+}
+legend{
+    background-color: rgb(255, 0, 0);
+}
