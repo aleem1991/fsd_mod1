@@ -1,27 +1,23 @@
-h1{
-    background-color: blanchedalmond;
+*{
+    font-size: 30px;
+
 }
-a[href]{
-   background-color: black;
-   color:white;
+h1,h2,h3{
+    font-family: cursive;
 }
-form{
-    background-color: blanchedalmond;
-}
-p{
-    background-color: azure;
-}
-th{
+ul>li{
     color:pink;
-    background-color: black;
+
 }
-td{
-    color:black;
-    background-color: pink;
+a[href*="google"]{
+    background-color: aquamarine;
 }
-li{
-    background-color: rgb(112, 118, 104);
+#first{
+    background-color: blueviolet;
 }
-legend{
+.odd{
+    background-color: rgb(80, 52, 191);
+}
+.even{
     background-color: rgb(255, 0, 0);
 }
